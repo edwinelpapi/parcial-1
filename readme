@@ -1,0 +1,25 @@
+Bueno lo que yo observe es que al ir aumentando los numeros el equipo se ponia cada ves mas lento inice desde el 5 y nada fuera de los normal 
+pero a medida que le fui subiendo el rango note que cada vez el computador se ponia mas lento hasta llegar a 41 el computador
+se puso lento y el tiempo de correr fueron 11 minutos cosa que me parece algo lento.
+
+bueno y en la grafica puedo analizar que cada punto va sumando segun el numero base que empieza diagamos si es 26 inicia 
+desde el 25 y si terminamos en 41 lo aproxima en 42 y las lineas van en zizac de arriba hacia abajo 
+
+GRAFICA 
+esta es una grafica lineal por su variable independiente en el eje y se ven valores en el orden de 
+microsegundos representando el tiempom de ejecucion o rendimiento en conclucion es una grafica de lineal
+creciente, con algunas variaciones o picos .
+ 
+y no es logaritmica devido a que en una curva logaritmica, el crecimiento es rapido al inicio y despues se aplaca por eso se descarta
+que sea logaritmica.+
+
+2 grafica 
+es lineal tambien devido a que crece de forma mas o menos constante, al duplicar el tiempo tambien aumenta
+mas o menos en la misma proporcion
+No es logarítmica, porque no se aplana al crecer 
+
+
+No es exponencial, porque no crece de forma explosiva desde el inicio.
+
+Se parece más a un crecimiento lineal con ruido o variaciones intermedias, quizá por condiciones del sistema al medir.
+
